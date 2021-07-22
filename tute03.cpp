@@ -19,6 +19,6 @@ int main()
         fac = fac * r;
     }
 
-    cout << "Factorial of %d is %ld" << no << fac;  
+    cout << "Factorial of " << no << " is " << fac;  
     return 0;
 }
